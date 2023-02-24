@@ -19,15 +19,15 @@ const HeaderSocials = () => {
         <i className="fa-brands fa-instagram"></i>
         </a>
 
-        <a href="#" className="home__social-link" target={'_blank'}>
+        <a href="https://twitter.com/payal_adhikary" className="home__social-link" target={'_blank'}>
         <i className="fa-brands fa-twitter"></i>
         </a>
 
-        <a href="#" className="home__social-link" target={'_blank'}>
+        <a href="https://www.behance.net/payaladhikary" className="home__social-link" target={'_blank'}>
         <i className="fa-brands fa-behance"></i>
         </a>
 
-        <a href="#" className="home__social-link" target={'_blank'}>
+        <a href="https://blogsbypayal.weebly.com/" className="home__social-link" target={'_blank'}>
         <i class="fa-solid fa-blog"></i>
         </a>
 
