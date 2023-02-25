@@ -62,7 +62,7 @@ const Menu = [
         image: Cert2,
         title: "Course on Enhancing Softskills & Personality from NPTEL",
         category: "Others",
-        link: Oth4
+        link: Cert2
     },
     
 ]
