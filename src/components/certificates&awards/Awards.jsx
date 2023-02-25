@@ -1,4 +1,5 @@
 import Cert1 from "../../assets/cert-1.jpg"
+import Cert2 from "../../assets/cert-2.jpg"
 import Oth1 from "../../assets/oth-1.jpg"
 import Oth4 from "../../assets/oth-4.jpg"
 import IT1 from "../../assets/it-1.jpg"
@@ -53,6 +54,13 @@ const Menu = [
         id: 7,
         image: Oth4,
         title: "Receiving 1st prize for Essay Competition in college",
+        category: "Others",
+        link: Oth4
+    },
+     {
+        id: 8,
+        image: Cert2,
+        title: "Course on Enhancing Softskills & Personality from NPTEL",
         category: "Others",
         link: Oth4
     },
