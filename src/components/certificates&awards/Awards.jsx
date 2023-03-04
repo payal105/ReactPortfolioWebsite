@@ -10,11 +10,11 @@ import Boot1 from "../../assets/boot-1.jpg"
 
 const Menu = [
     {
-        id: 9,
-        image: Cert1,
-        title: "Topper in Cloud Computing from NPTEL",
+        id: 1,
+        image: Cert9,
+        title: "PHP Course Completion Certificate from Great Learning",
         category: "Courses",
-        link: Cert1
+        link: Cert9
     },
     {
         id: 2,
@@ -66,10 +66,10 @@ const Menu = [
         link: Cert2
     },
      {
-        id: 1,
+       id: 1,
         image: Cert9,
         title: "PHP Course Completion Certificate from Great Learning",
-        category: "Others",
+        category: "Courses",
         link: Cert9
     },
     
