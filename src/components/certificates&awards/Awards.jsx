@@ -66,11 +66,11 @@ const Menu = [
         link: Cert2
     },
      {
-       id: 1,
-        image: Cert9,
-        title: "PHP Course Completion Certificate from Great Learning",
+       id: 9,
+        image: Cert1,
+        title: "Topper in Cloud Computing from NPTEL",
         category: "Courses",
-        link: Cert9
+        link: Cert1
     },
     
 ]
