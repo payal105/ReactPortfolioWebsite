@@ -15,6 +15,7 @@ const Contact = () => {
         </div>
 
         <form action="https://formsubmit.co/payaladhikary.portfolio@gmail.com" method="POST" className="contact__form">
+    <input type="hidden" name="_captcha" value="false">
           <div className="contact__form-group">
             <div className="contact__form-div">
               <input type="text" name="Name" className="contact__form-input" placeholder='Insert your name' required/>
